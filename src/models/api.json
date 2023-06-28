@@ -11,22 +11,18 @@
   ]
 }
 
-
 {
   "nome": "Fernanda Garay",
   "país": "Brasil",
   "idade": "37",
   "posição": "Ponteira",
-  "altura": "1,84"
+  "altura": "1,84",
   "clubeAtual": "Dentil Praia Clube",
   "títulos": [
     "Jogos Olímpicos de Londres",
     "Campeonato Mundial de Clubes"
   ]
 }
-
-
-
 
 {
   "nome": "Lucas Saatkamp",
@@ -41,13 +37,12 @@
   ]
 }
 
-
 {
   "nome": "Gabriela Guimaraes",
   "país": "Brasil",
   "idade": "29",
   "posição": "Ponteira",
-  "altura": "1,80"
+  "altura": "1,80",
   "clubeAtual": "VakifBank Spor Kulübü",
   "títulos": [
     "Liga dos Campeões da Europa",
@@ -55,13 +50,12 @@
   ]
 }
 
-
 {
   "nome": "Camila Brait",
   "país": "Brasil",
   "idade": "34",
   "posição": "Líbero",
-  "altura": "1,70"
+  "altura": "1,70",
   "clubeAtual": "Osasco Voleibol Clube",
   "títulos": [
     "Superliga Brasileira",
@@ -74,14 +68,13 @@
   "país": "Itália",
   "idade": "24",
   "posição": "Oposta",
-  "altura": "1,93"
+  "altura": "1,93",
   "clubeAtual": "VakifBank Spor Kulübü",
   "títulos": [
     "Campeonato Europeu",
     "Copa Itália"
   ]
 }
-
 
 {
   "nome": "Yoandy Leal",
@@ -109,20 +102,18 @@
   ]
 }
 
-
 {
   "nome": "Zhu Ting",
   "país": "China",
   "idade": "28",
   "posição": "Ponteira",
   "altura": "1,98",
-  "clube": "Tianjin Bohai Bank",
+  "clubeAtual": "Tianjin Bohai Bank",
   "títulos": [
     "Grand Prix",
     "Copa Asiática"
   ]
 }
-
 
 {
   "nome": "Kim Yeon-koung",
@@ -130,7 +121,7 @@
   "idade": "35",
   "posição": "Ponteira",
   "altura": "1,92",
-  "clube": "Tianjin Bohai Bank",
+  "clubeAtual": "Tianjin Bohai Bank",
   "títulos": [
     "CEV Cup",
     "Champions League"
@@ -143,7 +134,7 @@
   "idade": "36",
   "posição": "Levantador",
   "altura": "1,90",
-  "clube": "Modena Volley",
+  "clubeAtual": "Modena Volley",
   "títulos": [
     "Taça CEV",
     "Copa Itálial"
