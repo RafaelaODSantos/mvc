@@ -1,0 +1,151 @@
+{
+    "nome": "Lucarelli",
+    "país": "Brasil",
+    "idade": "31",
+    "posição": "Ponteiro",
+    "altura": "1,96",
+    "clubeAtual": "Gas Sales Bluenergy Piacenza",
+    "títulos": [
+      "Campeonato Italiano",
+      "Supercopa Brasileira"
+    ]
+  }
+  
+  {
+    "nome": "Fernanda Garay",
+    "país": "Brasil",
+    "idade": "37",
+    "posição": "Ponteira",
+    "altura": "1,84",
+    "clubeAtual": "Dentil Praia Clube",
+    "títulos": [
+      "Jogos Olímpicos de Londres",
+      "Campeonato Mundial de Clubes"
+    ]
+  }
+  
+  {
+    "nome": "Lucas Saatkamp",
+    "país": "Brasil",
+    "idade": "37",
+    "posição": "Central",
+    "altura": "2,09",
+    "clubeAtual": "Sada Cruzeiro",
+    "títulos": [
+      "Supercopa Italiana",
+      "Campeonato Mundial"
+    ]
+  }
+  
+
+  {
+    "nome": "Gabriela Guimaraes",
+    "país": "Brasil",
+    "idade": "29",
+    "posição": "Ponteira",
+    "altura": "1,80",
+    "clubeAtual": "VakifBank Spor Kulübü",
+    "títulos": [
+      "Liga dos Campeões da Europa",
+      "Campeonato Mundial"
+    ]
+  }
+
+
+  {
+    "nome": "Camila Brait",
+    "país": "Brasil",
+    "idade": "34",
+    "posição": "Líbero",
+    "altura": "1,70",
+    "clubeAtual": "Osasco Voleibol Clube",
+    "títulos": [
+      "Superliga Brasileira",
+      "Liga das Nações"
+    ]
+  }
+  
+  {
+    "nome": "Paola Egonu",
+    "país": "Itália",
+    "idade": "24",
+    "posição": "Oposta",
+    "altura": "1,93",
+    "clubeAtual": "VakifBank Spor Kulübü",
+    "títulos": [
+      "Campeonato Europeu",
+      "Copa Itália"
+    ]
+  }
+  
+  
+  {
+    "nome": "Yoandy Leal",
+    "país": "Cuba",
+    "idade": "33",
+    "posição": "Pontuador",
+    "altura": "2,00",
+    "clubeAtual": "Zenit Kazan",
+    "títulos": [
+      "Medalha de Ouro Olímpica",
+      "Liga das Nações"
+    ]
+  }
+  
+  {
+    "nome": "Tijana Bošković",
+    "país": "Sérvia",
+    "idade": "26",
+    "posição": "Oposta",
+    "altura": "1,93",
+    "clubeAtual": "Eczacibaşi Dynavit",
+    "títulos": [
+      "Supercopa da Turquia",
+      "Campeonato Mundial de Clubes"
+    ]
+  }
+
+
+{
+    "nome": "Zhu Ting",
+    "país": "China",
+    "idade": "28",
+    "posição": "Ponteira",
+    "altura": "1,98",
+    "clube": "Tianjin Bohai Bank",
+    "títulos": [
+      "Grand Prix",
+      "Copa Asiática"
+    ]
+  }
+  
+  
+  {
+    "nome": "Kim Yeon-koung",
+    "país": "Coreia do Sul",
+    "idade": "35",
+    "posição": "Ponteira",
+    "altura": "1,92",
+    "clube": "Tianjin Bohai Bank",
+    "títulos": [
+      "CEV Cup",
+      "Champions League"
+    ]
+  }
+
+  {
+    "nome": "Bruno Rezende",
+    "país": "Brasil",
+    "idade": "36",
+    "posição": "Levantador",
+    "altura": "1,90",
+    "clube": "Modena Volley",
+    "títulos": [
+      "Taça CEV",
+      "Copa Itálial"
+    ]
+  }
+  
+
+
+
