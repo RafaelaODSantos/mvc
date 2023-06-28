@@ -10,18 +10,24 @@
     "Supercopa Brasileira"
   ]
 }
+
+
 {
   "nome": "Fernanda Garay",
   "país": "Brasil",
   "idade": "37",
   "posição": "Ponteira",
-  "altura": "1,84",
+  "altura": "1,84"
   "clubeAtual": "Dentil Praia Clube",
   "títulos": [
     "Jogos Olímpicos de Londres",
     "Campeonato Mundial de Clubes"
   ]
 }
+
+
+
+
 {
   "nome": "Lucas Saatkamp",
   "país": "Brasil",
@@ -34,47 +40,54 @@
     "Campeonato Mundial"
   ]
 }
+
+
 {
   "nome": "Gabriela Guimaraes",
   "país": "Brasil",
   "idade": "29",
   "posição": "Ponteira",
-  "altura": "1,80",
+  "altura": "1,80"
   "clubeAtual": "VakifBank Spor Kulübü",
   "títulos": [
     "Liga dos Campeões da Europa",
     "Campeonato Mundial"
   ]
 }
+
+
 {
   "nome": "Camila Brait",
   "país": "Brasil",
   "idade": "34",
   "posição": "Líbero",
-  "altura": "1,70",
+  "altura": "1,70"
   "clubeAtual": "Osasco Voleibol Clube",
   "títulos": [
     "Superliga Brasileira",
     "Liga das Nações"
   ]
 }
+
 {
   "nome": "Paola Egonu",
   "país": "Itália",
   "idade": "24",
   "posição": "Oposta",
-  "altura": "1,93",
+  "altura": "1,93"
   "clubeAtual": "VakifBank Spor Kulübü",
   "títulos": [
     "Campeonato Europeu",
     "Copa Itália"
   ]
 }
+
+
 {
   "nome": "Yoandy Leal",
   "país": "Cuba",
   "idade": "33",
-  "posição": "Pontuador",
+  "posição": "Ponteiro",
   "altura": "2,00",
   "clubeAtual": "Zenit Kazan",
   "títulos": [
@@ -82,6 +95,7 @@
     "Liga das Nações"
   ]
 }
+
 {
   "nome": "Tijana Bošković",
   "país": "Sérvia",
@@ -94,6 +108,8 @@
     "Campeonato Mundial de Clubes"
   ]
 }
+
+
 {
   "nome": "Zhu Ting",
   "país": "China",
@@ -106,6 +122,8 @@
     "Copa Asiática"
   ]
 }
+
+
 {
   "nome": "Kim Yeon-koung",
   "país": "Coreia do Sul",
@@ -118,6 +136,7 @@
     "Champions League"
   ]
 }
+
 {
   "nome": "Bruno Rezende",
   "país": "Brasil",
@@ -130,3 +149,4 @@
     "Copa Itálial"
   ]
 }
+
