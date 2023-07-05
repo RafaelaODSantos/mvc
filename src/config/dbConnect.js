@@ -1,13 +1,9 @@
 import mongoose from "mongoose";
 
-mongoose.connect();
-
-// a função connect guarda a tring de conexão dentro dos parenteses.
+mongoose.connect("mongodb+srv://admin:fullstack2023@cluster0.twun7lt.mongodb.net/senac2");
+// A função connect guarda a tring de conexão dentro dos parênteses.
 
 let db = mongoose.connection;
 
-module.exports = db;
 
-//Agora criamos uma variável que guarda a ação de conectar nosso usuário com o MongoDB.
-
-let db = mongoose.connect;
+export default db;
